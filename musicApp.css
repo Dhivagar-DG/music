@@ -16,7 +16,7 @@ img{
 }
 .card{
     background: linear-gradient(130deg, #277198, #0f914e);
-    box-shadow: 10px 10px  20px rgba(168, 3, 245, 1);
+    box-shadow: 10px 10px  20px rgba(3, 245, 140 1);
 
 }
 #backward , .pause_play , #forward{
