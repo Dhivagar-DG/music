@@ -23,11 +23,11 @@ const songList = [
     {song: 'Kutty Story', singers : 'Thalapathy Vijay & Anirudh Ravichandar', path: 'Master/Kutti Story-Masstamilan.In.mp3', imgPath : 'Master/story.jpg'},
     {song: 'Polakatum Para Para', singers: 'Santhosh Narayanan', path: 'Master/Polakatum Para Para-Masstamilan.In.mp3', imgPath: 'Master/pola.jpg'},
     {song: 'Vaathi Coming', singers: 'Anirudh Ravichandar & Gana Balachandar', path: 'Master/Vaathi Coming-Masstamilan.In.mp3', imgPath: 'Master/vaathi.jpg'},
-    {song : 'Pathala Pathala', singers : 'Anirudh Ravichandar , kamal hasan', path: 'vikram/Pathala Pathala-Masstamilan.in.mp3', imgPath : 'Vikram/pathala.jpg' },
-    {song : 'Wasted', singers : 'Anirudh Ravichandar', path: 'vikram/Wasted-MassTamilan.in.mp3', imgPath : 'Vikram/wasted.jpg'},
-    {song : 'Vikram-Title-Track', singers : 'Anirudh Ravichandar', path: 'vikram/Vikram-Title-Track-MassTamilan.in.mp3', imgPath : 'Vikram/title.jpg'},
-    {song : 'Porkanda-Singam', singers : 'Anirudh Ravichandar', path: 'vikram/Porkanda-Singam-MassTamilan.in.mp3', imgPath : 'Vikram/por.jpg'},
-    {song : 'Once-Upon-a-Time', singers : 'Anirudh Ravichandar', path : 'vikram/Once-Upon-a-Time-MassTamilan.in.mp3', imgPath : 'Vikram/once.jpg'}
+    {song : 'Pathala Pathala', singers : 'Anirudh Ravichandar , kamal hasan', path: 'Vikram/Pathala Pathala-Masstamilan.in.mp3', imgPath : 'Vikram/pathala.jpg' },
+    {song : 'Wasted', singers : 'Anirudh Ravichandar', path: 'Vikram/Wasted-MassTamilan.in.mp3', imgPath : 'Vikram/wasted.jpg'},
+    {song : 'Vikram-Title-Track', singers : 'Anirudh Ravichandar', path: 'Vikram/Vikram-Title-Track-MassTamilan.in.mp3', imgPath : 'Vikram/title.jpg'},
+    {song : 'Porkanda-Singam', singers : 'Anirudh Ravichandar', path: 'Vikram/Porkanda-Singam-MassTamilan.in.mp3', imgPath : 'Vikram/por.jpg'},
+    {song : 'Once-Upon-a-Time', singers : 'Anirudh Ravichandar', path : 'Vikram/Once-Upon-a-Time-MassTamilan.in.mp3', imgPath : 'Vikram/once.jpg'}
 ];
 
 
